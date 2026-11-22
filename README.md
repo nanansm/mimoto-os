@@ -16,6 +16,8 @@ Panduan ini menuntun kamu memasang Mimoto OS ke mini PC booth foto, dari mengund
 - Komputer lain (Mac atau Windows) untuk menulis installer ke flashdisk.
 - Aplikasi balenaEtcher di komputer itu. Aplikasinya gratis, unduh di [etcher.balena.io](https://etcher.balena.io).
 
+**[⬇ Unduh Mimoto OS (ISO, 1,30 GB)](https://github.com/nanansm/mimoto-os/releases/download/v2-uji-a4995e0/mimoto-os-v2-a4995e0.iso)**
+
 ## File yang kamu unduh
 
 Installer Mimoto OS berbentuk satu file ISO.
@@ -32,7 +34,7 @@ SHA256 adalah kode untuk memastikan file yang kamu unduh sama persis dengan file
 
 Bagian ini kamu kerjakan di komputer Mac atau Windows.
 
-1. Unduh file ISO dari halaman **Releases** repo ini.
+1. Unduh file ISO: **[klik di sini untuk unduh Mimoto OS (1,30 GB)](https://github.com/nanansm/mimoto-os/releases/download/v2-uji-a4995e0/mimoto-os-v2-a4995e0.iso)**. Kalau link tidak jalan, buka halaman [Releases](https://github.com/nanansm/mimoto-os/releases) repo ini.
 2. Colok flashdisk ke komputer, lalu buka balenaEtcher.
    - Klik **Flash from file**, lalu pilih file ISO tadi.
    - Klik **Select target**, lalu pilih flashdisk kamu. Cek ukurannya supaya kamu tidak salah pilih disk.

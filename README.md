@@ -46,7 +46,9 @@ Bagian ini kamu kerjakan di komputer Mac atau Windows.
    - Di merek lain, tombolnya biasanya **F12**, **F11**, **F9**, atau **Esc**.
 5. Installer berjalan sendiri tanpa perlu keyboard. Layar menampilkan peringatan bahwa disk akan dihapus, disertai hitung mundur 15 detik. Kalau mau batal, cabut flashdisk sebelum hitungannya habis.
 6. Kalau mini PC punya lebih dari satu disk internal, installer berhenti demi keamanan. Cabut disk tambahannya, lalu ulangi dari langkah 4.
-7. Tunggu sekitar 3–5 menit sampai instal selesai dan mini PC mati sendiri. Setelah itu cabut flashdisk, lalu nyalakan mini PC lagi.
+7. Tunggu sekitar 3–5 menit sampai mini PC **mati sendiri**. Layar tidak menampilkan tulisan "selesai". Mati sendiri itulah tandanya instal sudah beres. Setelah mati, cabut flashdisk, lalu nyalakan mini PC lagi.
+   > **Jangan cabut flashdisk sebelum mini PC mati sendiri.** Tulisan "Cabut flashdisk" di layar hitung mundur artinya **batal**, bukan perintah.
+   > Lupa mencabut dan layar hitung mundur muncul lagi? Cabut flashdisk saat itu juga. Instal batal, mini PC mati, dan isi disk tidak tersentuh. Nyalakan lagi, mini PC langsung masuk ke Mimoto.
 8. Saat pertama menyala, mini PC menyiapkan booth selama sekitar 2–10 menit. Tahap ini tidak butuh internet. Jangan matikan mini PC, karena nanti ia restart sendiri.
 
 ## Bagian 3. Hubungkan booth ke akun kamu
